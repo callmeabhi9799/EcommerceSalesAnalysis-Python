@@ -1,4 +1,4 @@
-# 📈 E-commerce Sales Analysis Dashboard
+# 📈 E-commerce Sales Analysis
 
 This project presents an end-to-end **exploratory data analysis (EDA)** of an e-commerce dataset using **Pandas** for data manipulation and **Plotly** for interactive visualizations. The primary goal is to extract actionable insights from sales and profit data by analyzing temporal trends, product performance, and customer segments.
 
